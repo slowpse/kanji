@@ -1,5 +1,5 @@
   const kanjiData = [
-    { kanji: "水", hiragana: "みず", english: "water" },
+    { kanji: "面白い", hiragana: "おもしろい", english: "interesting / funny" },
     { kanji: "火", hiragana: "ひ", english: "fire" },
     { kanji: "木", hiragana: "き", english: "tree" },
     { kanji: "空", hiragana: "そら", english: "sky" },
